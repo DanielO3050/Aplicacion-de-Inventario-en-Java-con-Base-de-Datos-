@@ -151,6 +151,7 @@ public class Inicio extends javax.swing.JFrame {
             this.dispose();
             new Inventario().setVisible(true);
         }
+       
     }//GEN-LAST:event_ingresarActionPerformed
 
     private void text2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_text2ActionPerformed
